@@ -1,6 +1,6 @@
 ﻿Public Class thanks
 
-    Private EndTimer As Integer
+    Public EndTimer As Integer
 
     Sub Thanks()
         If EndTimer > 30 Then

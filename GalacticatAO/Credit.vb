@@ -9,7 +9,7 @@
 
     Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
         credits.Top -= 7
-        If credits.Top < -500 Then
+        If credits.Top < -500 And thanks.EndTimer < 1 Then
             Timer1.Stop()
             thanks.ShowDialog()
             Me.Close()

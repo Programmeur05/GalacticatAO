@@ -57,7 +57,7 @@ Partial Class WinningScreen
         Me.Label1.BackColor = System.Drawing.Color.Transparent
         Me.Label1.Font = New System.Drawing.Font("Palatino Linotype", 86.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.ForeColor = System.Drawing.Color.Red
-        Me.Label1.Location = New System.Drawing.Point(385, 68)
+        Me.Label1.Location = New System.Drawing.Point(413, 84)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(641, 156)
         Me.Label1.TabIndex = 2
