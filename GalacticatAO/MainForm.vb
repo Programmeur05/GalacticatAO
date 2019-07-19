@@ -3,7 +3,7 @@
     Private Sub MainForm_KeyDown(sender As Object, e As KeyEventArgs) Handles Me.KeyDown
         If Max.State = normal Or Max.State = revive Then
             Max.State = normal
-            If e.KeyCode = Keys.A Then
+            If e.KeyCode = Keys.Q Then
                 Max.Speed.X = -Max.Startspeed.X
                 Max.FacingRight = False
             End If
@@ -20,7 +20,7 @@
 
 
     Private Sub MainForm_KeyUp(sender As Object, e As KeyEventArgs) Handles Me.KeyUp
-        If e.KeyCode = Keys.A Or e.KeyCode = Keys.D Then
+        If e.KeyCode = Keys.Q Or e.KeyCode = Keys.D Then
             Max.Speed.X = 0
         End If
     End Sub
