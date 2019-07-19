@@ -12,3 +12,5 @@ C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\obj\Debug\Galact
 C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\obj\Debug\GalacticatAO.TitleScreen.resources
 C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\obj\Debug\GalacticatAO.YouLose.resources
 C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\obj\Debug\GalacticatAO.SelectDif.resources
+C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\obj\Debug\GalacticatAO.Credit.resources
+C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\obj\Debug\GalacticatAO.thanks.resources

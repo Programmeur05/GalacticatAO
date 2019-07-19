@@ -70,6 +70,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Credit.Designer.vb">
+      <DependentUpon>Credit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Credit.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="MainForm.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -81,6 +87,12 @@
       <DependentUpon>SelectDif.vb</DependentUpon>
     </Compile>
     <Compile Include="SelectDif.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thanks.Designer.vb">
+      <DependentUpon>thanks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="thanks.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="TitleScreen.Designer.vb">
@@ -120,11 +132,17 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Credit.resx">
+      <DependentUpon>Credit.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="SelectDif.resx">
       <DependentUpon>SelectDif.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thanks.resx">
+      <DependentUpon>thanks.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TitleScreen.resx">
       <DependentUpon>TitleScreen.vb</DependentUpon>

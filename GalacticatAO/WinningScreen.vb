@@ -7,7 +7,7 @@
     End Sub
 
     Private Sub backtomenu_Click(sender As Object, e As EventArgs) Handles backtomenu.Click
-        QuitGame = True
+        Credit.ShowDialog()
         Me.Close()
     End Sub
 
