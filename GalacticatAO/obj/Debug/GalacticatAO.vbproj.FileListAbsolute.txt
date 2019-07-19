@@ -1,0 +1,14 @@
+C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\bin\Debug\GalacticatAO.exe.config
+C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\bin\Debug\GalacticatAO.exe
+C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\bin\Debug\GalacticatAO.pdb
+C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\bin\Debug\GalacticatAO.xml
+C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\obj\Debug\GalacticatAO.Resources.resources
+C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\obj\Debug\GalacticatAO.vbproj.GenerateResource.Cache
+C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\obj\Debug\GalacticatAO.exe
+C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\obj\Debug\GalacticatAO.xml
+C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\obj\Debug\GalacticatAO.pdb
+C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\obj\Debug\GalacticatAO.MainForm.resources
+C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\obj\Debug\GalacticatAO.WinningScreen.resources
+C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\obj\Debug\GalacticatAO.TitleScreen.resources
+C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\obj\Debug\GalacticatAO.YouLose.resources
+C:\Users\RealProgramming4Kids\Desktop\GalacticatAO\GalacticatAO\obj\Debug\GalacticatAO.SelectDif.resources
